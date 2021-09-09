@@ -18,7 +18,7 @@
   <img align="center" alt="Nathan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Nathan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nathan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://c.tenor.com/50ICKs2LWDQAAAAM/whatever-happens-cowboy-bebop.gif">
+  <img align="right" alt="Rafa-yoda" src="https://c.tenor.com/Eo5J0PC2QwMAAAAM/cowboy-bebop-spike.gif">
 </div>
   
 ##
