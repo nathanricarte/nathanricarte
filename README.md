@@ -1,11 +1,11 @@
 ### Oi👋, eu sou o Nathan Ricarte.
 
 - 🔭 Estudo na Universidade de Fortaleza (UNIFOR).
-- 🌱 Estudando JavaScript, Kotlin e Java.
-- 🤔 Buscando estagio.
+- 📓 Estudando JavaScript, Kotlin e Java.
+- 😎 Buscando estagio.
 - 💬 Adoro falar sobre musica ou obras cinematograficas/literarias.
 - 📫 Como entrar em contato comigo: @nathanricarte//nathanricarte@gmail.com
-- ⚡ Fun fact: Gosto de conhecer culturas novas.
+- 🎭 Fun fact: Gosto de conhecer culturas novas.
 
 <div>
   <a href="https://github.com/nathanricarte">
